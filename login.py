@@ -3,3 +3,5 @@ def login(username, password):
         return "Login Successful"
     else:
         return "Invalid Credentials"
+        return "Login Successful from MASTER"
+
